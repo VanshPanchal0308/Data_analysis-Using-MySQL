@@ -15,10 +15,12 @@ The project is structured into three categories of questions: Basic, Intermediat
 
 - **Basic :** Simple queries to retrieve specific information such as order details, pizza categories, and basic statistics.
 
-- **Intermediate :**More complex queries involving data aggregation, filtering, and grouping to uncover trends and insights.
+- **Intermediate :** More complex queries involving data aggregation, filtering, and grouping to uncover trends and insights.
 
-- **Advance :**Advanced queries that require joining multiple tables, subqueries, and more intricate data analysis to answer complex business questions.
+- **Advance :** Advanced queries that require joining multiple tables, subqueries, and more intricate data analysis to answer complex business questions.
 
 This project is a great example of how SQL can be used in Business Analytics to gain valuable insights from a dataset and is a useful resource for anyone looking to improve their SQL skills.
+
+## **You can download the zip file of dataset from** [here](https://github.com/VanshPanchal0308/Data_analysis-Using-MySQL/blob/main/pizza_sales.zip)
 
 
